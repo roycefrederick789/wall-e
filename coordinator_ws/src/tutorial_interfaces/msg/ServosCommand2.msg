@@ -1,0 +1,3 @@
+float32 new_yaw
+float32 new_pitch
+float32 new_roll
